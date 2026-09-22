@@ -4,4 +4,4 @@
 - [x] Adicionar seleção contextual de arquivos e pastas
 - [x] Adicionar processamento demonstrativo, log e resumo
 - [x] Aplicar o sistema visual escuro e profissional
-- [ ] Validar compilação e apresentação em tela grande e pequena
+- [x] Validar compilação e apresentação em tela grande e pequena
